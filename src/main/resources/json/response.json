@@ -1,0 +1,27 @@
+[
+    {
+        "numeroParcela": 1,
+        "valor": 55.0,
+        "taxaJurosAoMes": 1.02
+    },
+    {
+        "numeroParcela": 2,
+        "valor": 55.0,
+        "taxaJurosAoMes": 1.02
+    },
+    {
+        "numeroParcela": 3,
+        "valor": 55.0,
+        "taxaJurosAoMes": 1.02
+    },
+    {
+        "numeroParcela": 4,
+        "valor": 55.0,
+        "taxaJurosAoMes": 1.02
+    },
+    {
+        "numeroParcela": 5,
+        "valor": 55.0,
+        "taxaJurosAoMes": 1.02
+    }
+]

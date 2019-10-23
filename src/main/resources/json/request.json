@@ -1,0 +1,11 @@
+{
+    "produto": {
+        "codigo": 123,
+        "nome": "Red Dead Redemption 2",
+        "valor": 230.00
+    },
+    "condicaoPagamento": {
+        "valorEntrada": 50.00,
+        "qtdeParcelas": 6
+    }
+}
